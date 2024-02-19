@@ -1,12 +1,12 @@
 # spinnygiffy
 
-## exes in thejuice
+## exes in [thejuice](/thejuice)
 
-## unfun code in themeat
+## unfun code in [themeat](/themeat)
 
 example command line for building:
 
-pyinstaller --onefile -w --add-data "catspin;catspin" tkcatspin.py
+`pyinstaller --onefile -w --add-data "catspin;catspin" tkcatspin.py`
 
 then copy and paste exe into the juice
 
