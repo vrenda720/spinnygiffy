@@ -19,7 +19,7 @@ def show_image():
 
     def changeimgonebyone():
         global inum
-        if inum < 103:
+        if inum < 41:
             img_label.config(image=image_list[inum])
             inum += 1
         else:
