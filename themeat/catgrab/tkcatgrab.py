@@ -25,7 +25,7 @@ def show_image():
         else:
             inum = 0  # Reset counter when reaching the end
 
-        root.after(10, changeimgonebyone)  # Schedule the next call after 1000 milliseconds
+        root.after(70, changeimgonebyone)  # Schedule the next call after 1000 milliseconds
 
     # Load the initial images using the resource_path function
     image_list = [
