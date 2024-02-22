@@ -1,0 +1,3 @@
+([('tkcatgrab',
+   '/Users/erik/spinnygiffy/themeat/catgrab/dist/tkcatgrab',
+   'EXECUTABLE')],)

@@ -1,0 +1,3 @@
+([('tkcatspin',
+   '/Users/erik/spinnygiffy/themeat/spincat/dist/tkcatspin',
+   'EXECUTABLE')],)

@@ -1,0 +1,3 @@
+([('plinkcat',
+   '/Users/erik/spinnygiffy/themeat/plinkcat/dist/plinkcat',
+   'EXECUTABLE')],)
